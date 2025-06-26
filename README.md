@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GregStack
 
 🧠 API Framework for Autonomous Systems and Data Pipelines.
@@ -35,3 +36,7 @@
 > *"Every signal needs a carrier wave. GregStack is that wave."*
 
 ---
+=======
+# gregstack
+API framework for autonomous systems and data pipelines.
+>>>>>>> 1f1347b47f4fcddcfe569bc00413d9344c914213
